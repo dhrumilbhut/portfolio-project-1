@@ -4,6 +4,10 @@
 
 This is a one page portfolio template project made in HTML and CSS.
 
+# Project live link
+
+[Portfolio-project-1](https://tranquil-bombolone-400b7b.netlify.app)
+
 # Technologies Used
 
 - HTML
